@@ -28,4 +28,4 @@ An Architecture Decision Record (ADR) is a short document that captures a single
 
 | ID  | Title                               | Status   |
 | --- | ----------------------------------- | -------- |
-| 001 | [Custom Update Orchestration over Nebraska](./001-custom-update-orchestration.md) | Proposed |
+| 001 | [Custom Update Orchestration over Nebraska](./adrs/001-custom-update-orchestration.md) | Proposed |
